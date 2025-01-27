@@ -1,0 +1,5 @@
+Algorithm / Model Used: Support Vector Machine (SVM)
+
+Accuracy score: 0.9375
+
+
