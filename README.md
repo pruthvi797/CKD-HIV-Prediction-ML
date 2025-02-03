@@ -45,7 +45,7 @@ The primary objective is to predict **CKD stages** in **HIV-infected patients** 
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/CKD-HIV-Prediction-ML.git
+git clone https://github.com/pruthvi797/CKD-HIV-Prediction-ML.git
 ```  
 
 2️⃣ **Navigate to the project directory**  
